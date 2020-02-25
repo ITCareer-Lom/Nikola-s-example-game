@@ -1,0 +1,21 @@
+D:\C# programms\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+D:\C# programms\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+D:\C# programms\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+D:\C# programms\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.dll
+D:\C# programms\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.pdb
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.dll
+D:\C# programms\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.pdb
+D:\Programming\C#\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+D:\Programming\C#\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+D:\Programming\C#\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+D:\Programming\C#\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.dll
+D:\Programming\C#\Game\Game\Game\bin\Debug\netcoreapp2.1\Game.pdb
+D:\Programming\C#\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+D:\Programming\C#\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+D:\Programming\C#\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+D:\Programming\C#\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.dll
+D:\Programming\C#\Game\Game\Game\obj\Debug\netcoreapp2.1\Game.pdb
